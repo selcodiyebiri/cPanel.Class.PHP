@@ -10,8 +10,8 @@ Gereksinimler
 Sunucu cURL kütüphanesi bulunmalıdır ve PHP kullanım tarzı açısından en az PHP 5.5.X sürümü yüklü olmalıdır.
 
 
-Kullanımı ve Örnekleri
+Kullanımı
 =================
 
 http://selcuk.in/cpanel-whm-icin-api-sinifim.html
-Kullanımı hakkında bilgi almak için blog konusunu ziyaret edebilirsiniz.
+sınıf hakkında daha detaylı bilgi almak için ve kullanım örnekleri için blog konusunu ziyaret edebilirsiniz.
